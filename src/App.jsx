@@ -323,7 +323,6 @@ function App() {
               }}>
                 ✨ Choisis ta qualité premium ✨ 
               </p>
-              <h6>(compris dans le billet)</h6>
               <div style={{
                 display: 'grid',
                 gridTemplateColumns: 'repeat(2, 1fr)',
@@ -351,7 +350,12 @@ function App() {
                 marginTop: '15px',
                 fontStyle: 'italic'
               }}>
-                (Hors supplément 3D)
+                (Billets valable jusqu'au 30/11/2026. <br />
+Le E-billet Ciné 4DX Accès National est une contremarque à échanger contre 1 place* sur le site de réservation en ligne cinémaspathegaumont.com ou sur l'application des cinémas Pathé Gaumont.
+Pour découvrir toutes nos salles technos : <a href="https://www.pathe.fr/experiences" target="_blank" rel="noopener noreferrer">https://www.pathe.fr/experiences</a>
+(*) <br /> Sur la base d'une séance 4DX, IMAX, Dolby Cinéma ou ScreenX <br />
+Les lunettes 3D seront à régler en supplément (facultatif)
+Hors séance spéciale.)
               </p>
             </div>
 
@@ -375,7 +379,7 @@ function App() {
                 color: '#856404',
                 lineHeight: '1.6'
               }}>
-                Deux codes se cachent dans ton enveloppe ! 🎁<br />
+                Deux codes se cache derrière ton enveloppe ! 🎁<br />
                 Saisis-les sur ton compte Pathé et<br />
                 <strong>profite du cinéma comme jamais ! 🎬</strong>
               </p>
