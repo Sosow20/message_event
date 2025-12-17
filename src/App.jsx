@@ -351,7 +351,7 @@ function App() {
                 fontStyle: 'italic'
               }}>
                 (Billets valable jusqu'au 30/11/2026. <br />
-Le E-billet Ciné 4DX Accès National est une contremarque à échanger contre 1 place* sur le site de réservation en ligne cinémaspathegaumont.com ou sur l'application des cinémas Pathé Gaumont.
+Le E-billet Ciné 4DX Accès National est une contremarque à échanger contre 1 place* sur le site de réservation en ligne <a href="https://www.cinemaspathegaumont.com" target="_blank" rel="noopener noreferrer">cinémaspathegaumont.com</a> ou sur l'application des cinémas Pathé Gaumont. <br />
 Pour découvrir toutes nos salles technos : <a href="https://www.pathe.fr/experiences" target="_blank" rel="noopener noreferrer">https://www.pathe.fr/experiences</a>
 (*) <br /> Sur la base d'une séance 4DX, IMAX, Dolby Cinéma ou ScreenX <br />
 Les lunettes 3D seront à régler en supplément (facultatif)
